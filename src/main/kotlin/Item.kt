@@ -1,0 +1,1 @@
+class Item(val itemId: String, val itemName: String, var itemPrice: Float, var quantity: Float)
